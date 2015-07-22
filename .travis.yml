@@ -1,0 +1,6 @@
+---
+env:
+ - FOOBAR=foobar
+
+script: echo FOOBAR=$FOOBAR
+
